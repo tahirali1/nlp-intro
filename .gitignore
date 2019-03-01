@@ -1,0 +1,8 @@
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Python Tools for Visual Studio (PTVS)
+__pycache__/
+*.pyc
+venv
